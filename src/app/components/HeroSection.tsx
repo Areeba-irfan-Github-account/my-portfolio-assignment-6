@@ -8,10 +8,10 @@ const HeroSection = () => {
         <div className='min-h-screen bg-black text-white flex flex-col md:flex-row items-center justify-center p-8 relative '>
 
             <div className='md:w-1/2 ml-6 mr-8 text-center md:text-left mb-8 md:mb-0 relative z-10'>
-                <h1 className='text-4xl md:text-5xl font-bold mb-4'>Hello , I'm <span className="bg-pink-700" >Areeba Irfan</span> </h1>
+                <h1 className='text-4xl md:text-5xl font-bold mb-4'>Hello , I'm <span className="text-pink-600" >Areeba Irfan</span> </h1>
                 <h2 className='text-2xl md:text-3xl font-semibold mb-4'>Frontend developer</h2>
                 <p className='text-lg mb-6'>
-                    Passionate about creating beautiful and the functional web eperiences. I love  turning ideans into reality through code.
+                    Passionate about creating beautiful and the functional web experiences, love  turning ideas into reality through code.
                 </p>
                 <div className='relative inline-block'>
                     

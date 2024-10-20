@@ -7,10 +7,10 @@ const page = () => {
   return (
     <div>
       <Navbar />
-      <div className='min-h-screen bg-black text-white flex flex-col items-center justify-center p-4 '>
-        <h1 className='text-4xl font-bold mb-6 text-center bg-pink-700'>&lt;About me/&gt;</h1>
+      <div className='min-h-screen bg-black text-white flex flex-col items-center justify-center mt-0   p-1 '>
+        <h1 className='text-6xl font-bold mb-6 text-center text-pink-600'>&lt;About me/&gt;</h1>
         <div className='max-w-2xl text-center mb-8 '>
-          <p  className='text-lg mb-4'>
+          <p  className='text-lg mb-8'>
             Hello! I'm Areeba Irfan, a passionate developer with a keen interest in creating innovative solutions.
             With a background in computer science and a love for problem-solving, I strive to build applications
             that make a difference in people's lives.
