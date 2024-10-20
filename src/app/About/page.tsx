@@ -8,7 +8,7 @@ const page = () => {
     <div>
       <Navbar />
       <div className='min-h-screen bg-black text-white flex flex-col items-center justify-center p-4 '>
-        <h1 className='text-4xl font-bold mb-6 text-center'>&lt;About me/&gt;</h1>
+        <h1 className='text-4xl font-bold mb-6 text-center bg-pink-700'>&lt;About me/&gt;</h1>
         <div className='max-w-2xl text-center mb-8 '>
           <p  className='text-lg mb-4'>
             Hello! I'm Areeba Irfan, a passionate developer with a keen interest in creating innovative solutions.
