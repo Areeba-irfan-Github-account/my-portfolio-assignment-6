@@ -37,8 +37,8 @@ const page = () => {
                         />
 
                         <div className='p-6'>
-                            <h1 className='text-3xl font-bold mb-2'>Blog Website</h1>
-                            <p className='text-gray-300 mb-4'>This the blog website that i used the next.js concepts and also used the tailwind.css</p>
+                            <h1 className='text-3xl font-bold mb-2'>To Do List</h1>
+                            <p className='text-gray-300 mb-4'>This the to-do List website, i used the next.js concepts Like usestate and the useEffect and also used the tailwind.css</p>
                             <Link href='https://to-do-listxyz.vercel.app/' className='bg-pink-600 hover:bg-pink-800 text-white font-bold py-2 px-4 rounded transition duration-300'>Viewed Project</Link>
                         </div>
                     </div>
@@ -52,8 +52,8 @@ const page = () => {
                         />
 
                         <div className='p-6'>
-                            <h1 className='text-3xl font-bold mb-2'>Blog Website</h1>
-                            <p className='text-gray-300 mb-4'>This the blog website that i used the next.js concepts and also used the tailwind.css</p>
+                            <h1 className='text-3xl font-bold mb-2'>Clone Website</h1>
+                            <p className='text-gray-300 mb-4'>This the Clone website that i used the next.js concepts and also used the tailwind.css</p>
                             <Link href='https://music-course-web.vercel.app/?vercelToolbarCode=C4F9jeV3oPGtVJH' className='bg-pink-600 hover:bg-pink-800 text-white font-bold py-2 px-4 rounded transition duration-300'>Viewed Project</Link>
                         </div>
                     </div>
@@ -67,8 +67,8 @@ const page = () => {
                         />
 
                         <div className='p-6'>
-                            <h1 className='text-3xl font-bold mb-2'>Blog Website</h1>
-                            <p className='text-gray-300 mb-4'>This the blog website that i used the next.js concepts and also used the tailwind.css</p>
+                            <h1 className='text-3xl font-bold mb-2'>Calculator</h1>
+                            <p className='text-gray-300 mb-4'>This the Calculator that i used the next.js concepts and also used the tailwind.css</p>
                             <Link href='https://calculator-seven-taupe-23.vercel.app/' className='bg-pink-600 hover:bg-pink-800 text-white font-bold py-2 px-4 rounded transition duration-300'>Viewed Project</Link>
                         </div>
                     </div>
@@ -97,8 +97,8 @@ const page = () => {
                         />
 
                         <div className='p-6'>
-                            <h1 className='text-3xl font-bold mb-2'>Blog Website</h1>
-                            <p className='text-gray-300 mb-4'>This the blog website that i used the next.js concepts and also used the tailwind.css</p>
+                            <h1 className='text-3xl font-bold mb-2'>Cursor Moving With Mouse</h1>
+                            <p className='text-gray-300 mb-4'>This the blog website that i used the simple HTML , CSS and java</p>
                             <Link href='https://move-cursur.vercel.app/' className='bg-pink-600 hover:bg-pink-800 text-white font-bold py-2 px-4 rounded transition duration-300'>Viewed Project</Link>
                         </div>
                     </div>
